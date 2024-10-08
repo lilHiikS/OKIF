@@ -11,8 +11,8 @@ import Padel from './pages/Padel';
 import Gymnastik from './pages/Gymnastik';
 import Multibanen from './pages/Multibanen';
 import Klubben from './pages/Klubben';
+import './logo.jpg';
 
-import './styles.css';
 import './App.css';
 import './navbar.css';
 
