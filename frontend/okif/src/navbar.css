@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.body {
+    flex: 1;
+}
+
+.main {
+    flex: 1;
+}
+
+.container {
+    display: flex;
+}
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: rgba(200, 0 ,0, 0.7);
+    
+}
+
+.logo {
+    margin-right: 20px;
+    size: 100px;
+}
+
+.logoFodbold {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 30px; /* Adjust the gap between links as needed */
+    margin-left: 100px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white; /* Adjust the color as needed */
+}
