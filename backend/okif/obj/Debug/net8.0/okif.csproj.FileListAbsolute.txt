@@ -1,0 +1,14 @@
+N:\GIT\ØKIF\backend\okif\bin\Debug\net8.0\okif.exe
+N:\GIT\ØKIF\backend\okif\bin\Debug\net8.0\okif.deps.json
+N:\GIT\ØKIF\backend\okif\bin\Debug\net8.0\okif.runtimeconfig.json
+N:\GIT\ØKIF\backend\okif\bin\Debug\net8.0\okif.dll
+N:\GIT\ØKIF\backend\okif\bin\Debug\net8.0\okif.pdb
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\okif.GeneratedMSBuildEditorConfig.editorconfig
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\okif.AssemblyInfoInputs.cache
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\okif.AssemblyInfo.cs
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\okif.csproj.CoreCompileInputs.cache
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\okif.dll
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\refint\okif.dll
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\okif.pdb
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\okif.genruntimeconfig.cache
+N:\GIT\ØKIF\backend\okif\obj\Debug\net8.0\ref\okif.dll
