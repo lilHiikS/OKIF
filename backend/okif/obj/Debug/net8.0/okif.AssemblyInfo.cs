@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("okif")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+393864bcad81a00bcd9ed4ce66b76ceaded94401")]
 [assembly: System.Reflection.AssemblyProductAttribute("okif")]
 [assembly: System.Reflection.AssemblyTitleAttribute("okif")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\GIT\\ØKIF\\backend\\okif\\okif.csproj",
+      "projectUniqueName": "N:\\GIT\\OKIFGit\\OKIF\\backend\\okif\\okif.csproj",
       "projectName": "okif",
-      "projectPath": "N:\\GIT\\ØKIF\\backend\\okif\\okif.csproj",
+      "projectPath": "N:\\GIT\\OKIFGit\\OKIF\\backend\\okif\\okif.csproj",
       "packagesPath": "C:\\Users\\HiikS\\.nuget\\packages\\",
-      "outputPath": "N:\\GIT\\ØKIF\\backend\\okif\\obj\\",
+      "outputPath": "N:\\GIT\\OKIFGit\\OKIF\\backend\\okif\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HiikS\\AppData\\Roaming\\NuGet\\NuGet.Config"
