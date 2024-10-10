@@ -7,20 +7,20 @@ import logo from './logo.jpg';
 export default function Navbar() {
     return (
         <nav className="navbar">
-            <Link to="/">
+            <CustomLink to="/">
                 <img src={logo} className="logo" alt="logo" />
-            </Link>
+            </CustomLink>
             <ul className="nav-links">
-                <Link to="/Sponsor">Sponsor</Link>
-                <Link to="/Galleri">Galleri</Link>
-                <Link to="/Handbold">Håndbold</Link>
-                <Link to="/Fodbold">Fodbold</Link>
-                <Link to="/Badminton">Badminton</Link>
-                <Link to="/Padel">Padel</Link>
-                <Link to="/Gymnastik">Gymnastik</Link>
-                <Link to="/Wt">WT</Link>
-                <Link to="/Multibanen">Multibanen</Link>
-                <Link to="/Klubben">Klubben</Link>
+                <CustomLink to="/Sponsor">Sponsor</CustomLink>
+                <CustomLink to="/Galleri">Galleri</CustomLink>
+                <CustomLink to="/Handbold">Håndbold</CustomLink>
+                <CustomLink to="/Fodbold">Fodbold</CustomLink>
+                <CustomLink to="/Badminton">Badminton</CustomLink>
+                <CustomLink to="/Padel">Padel</CustomLink>
+                <CustomLink to="/Gymnastik">Gymnastik</CustomLink>
+                <CustomLink to="/Wt">WT</CustomLink>
+                <CustomLink to="/Multibanen">Multibanen</CustomLink>
+                <CustomLink to="/Klubben">Klubben</CustomLink>
             </ul>
         </nav>    
     );

@@ -19,6 +19,7 @@ body {
 }
 
 .navbar {
+    list-style-type: none;
     display: flex;
     align-items: center;
     background-color: rgba(200, 0 ,0, 0.7);
@@ -26,8 +27,8 @@ body {
 
 .logo {
     margin-right: 20px;
-    width: 200px; /* Set the width */
-    height: 200px; /* Set the height */
+    width: 125px; /* Set the width */
+    height: 100px; /* Set the height */
 }
 
 .logoFodbold {
@@ -38,12 +39,17 @@ body {
 .nav-links {
     display: flex;
     gap: 30px; /* Adjust the gap between links as needed */
-    margin-left: 160px;
+    margin-left: 300px;
+    list-style-type: none;
 }
 
-.nav-links a {
+.nav-links a{
     text-decoration: none;
     color: white; /* Adjust the color as needed */
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
 }
 
 .sponsor-image-container {

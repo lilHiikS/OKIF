@@ -1,0 +1,25 @@
+.fodbold-content {
+    display: inline-block;
+    width: 100%;
+    padding: 40px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+.fodbold-menu {
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.fodbold-menu a {
+    display: block;
+    padding: 10px 0;
+    text-decoration: none;
+    color: black; /* Adjust the color as needed */
+}
+
+.fodbold-menu a:hover {
+    background-color: #e0e0e0;
+}
